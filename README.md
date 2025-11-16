@@ -69,9 +69,10 @@ Used widely for benchmarking retinal vessel segmentation.
 ---
 
 ## **Steps to Run**
-### 1. Clone Repository
+### Clone Repository
 ```bash
-[git clone https://github.com/Digital-Image-Processing-PES-ECE/project-name.git](https://github.com/DIP-2025-MINI-PROJECT/Blood-Vessel-Segmentation-in-Retinal-Images)
+git clone https://github.com/DIP-2025-MINI-PROJECT/Blood-Vessel-Segmentation-in-Retinal-Images.git
+
 ```
 
 ### 2. Run MATLAB Code
